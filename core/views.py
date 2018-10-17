@@ -4,7 +4,7 @@ from .models import Marca, Automovil
 from django.contrib import messages
 # Create your views here.
 
-
+#comentario
 #un decorador nos permite extender la funcionalidad
 #de un metodo. En este caso particular le solicitaremos
 #primero la autenticacion al usuario para ingresar a un view
